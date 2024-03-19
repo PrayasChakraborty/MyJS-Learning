@@ -20,3 +20,9 @@ let someNumber = 77
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+/******Operations******/
+
+let value = 07
+let negvalue = -value
+console.log(negvalue);
