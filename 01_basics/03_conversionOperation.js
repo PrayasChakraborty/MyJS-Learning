@@ -16,3 +16,7 @@ console.log(valueInNumber);
 // "07Msd"-> NaN
 //true -> 1 ; false -> 0
 
+let someNumber = 77
+let stringNumber = String(someNumber)
+console.log(stringNumber);
+console.log(typeof stringNumber);
